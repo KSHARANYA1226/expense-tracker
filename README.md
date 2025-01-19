@@ -168,12 +168,5 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Priyanshu2281)
 [![Medium](https://img.shields.io/badge/medum-1DA1F2?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@priyanshumalaviya9210)
 
-## Demo
 
-Insert gif or link to demo
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
